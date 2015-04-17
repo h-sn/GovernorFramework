@@ -20,7 +20,7 @@
     "rhumsaa/uuid": "@stable",
     "psr/log": "@stable",
     "php": "5.5.*",
-    "monolog/monolog": "1.8.0",
+    "monolog/monolog": "~1",
     "hamcrest/hamcrest-php": "v1.1.1",
     "videlalvaro/php-amqplib": "2.2.*",
     "predis/predis": "*",
