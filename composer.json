@@ -1,5 +1,5 @@
 {
-  "name": "smartgecko/governor-framework",
+  "name": "h-sn/governor-framework",
   "description": "PHP Command-Query-Responsibility-Segregation framework.",
   "license": "MIT",
   "autoload": {
